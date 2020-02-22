@@ -6,11 +6,9 @@
     "pin": "031-45-154"
   },
 
-  "accessories": [
+  "platforms": [
     {
-      "accessory": "ElgatoKeyLight",
-      "name": "Key Light",
-      "disabled": true
+      "platform": "ElgatoKeyLight"
     }
   ]
 }
