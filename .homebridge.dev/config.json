@@ -1,0 +1,16 @@
+{
+  "bridge": {
+    "name": "Homebridge",
+    "username": "38:F9:D3:47:E5:10",
+    "port": "51826",
+    "pin": "031-45-154"
+  },
+
+  "accessories": [
+    {
+      "accessory": "ElgatoKeyLight",
+      "name": "Key Light",
+      "disabled": true
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+node_modules
+.DS_Store
+.homebridge.dev/accessories
+.homebridge.dev/persist
